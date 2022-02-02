@@ -1,2 +1,4 @@
 # Chat
-study chat project
+Tutorial Chat from JavaScript Mastery
+
+
